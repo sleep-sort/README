@@ -2,4 +2,6 @@ Using Github to improve as a developer and organise my thoughts. Searching for a
 
 I asked DALL-E to draw a self portrait and that's how I got my profile picture.
 
-![kobe-pj](https://github.com/sleep-sort/sleep-sort/assets/32993081/6f9b855c-a3bb-4f76-9664-f2021cf2b0a1)
+<center>
+![kobe-pj](https://github.com/sleep-sort/sleep-sort/assets/32993081/f3ed4452-3a55-443c-8a57-3032ed9e34b7)
+</center>
